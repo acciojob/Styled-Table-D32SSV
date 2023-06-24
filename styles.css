@@ -1,1 +1,8 @@
 /* your code */
+tr:nth-child(even) {
+    background-color: lightgray;
+  }
+
+  thead {
+    background-color: red;
+  }
